@@ -1,0 +1,6 @@
+string network # The network name
+string prompt
+
+---
+
+string result
